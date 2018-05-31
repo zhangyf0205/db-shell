@@ -1,0 +1,7 @@
+com\dbus\db\exec\OracleShell.class
+com\dbus\db\exec\SQLExecutor.class
+com\dbus\db\exec\ShellConnection.class
+com\dbus\db\exec\ResultSetFormatter$Header.class
+com\dbus\db\exec\ResultSetFormatter.class
+com\dbus\db\Application.class
+com\dbus\db\exec\MySqlShell.class
